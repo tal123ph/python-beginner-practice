@@ -4,13 +4,13 @@ This repository contains **7 beginner-friendly Python practice files** to help s
 
 ## 📂 What's Inside
 
-– Basic input and output practice.
-– Working with variables and simple calculations.
-– Conditional statements (if/else) exercises.
-– Loops (`for`, `while`) practice problems.
-– Basic functions and their usage.
-– String manipulation exercises.
-– Basic list and dictionary practice.
-– Basic oop problems and topics.
-– File I/O All Methods.
----
+– Basic input and output practice.<br>
+– Working with variables and simple calculations.<br>
+– Conditional statements (if/else) exercises.<br>
+– Loops (`for`, `while`) practice problems.<br>
+– Basic functions and their usage.<br>
+– String manipulation exercises.<br>
+– Basic list and dictionary practice.<br>
+– Basic oop problems and topics.<br>
+– File I/O All Methods.<br>
+---<br>
