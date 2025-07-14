@@ -1,0 +1,4 @@
+Hi every one . I am Talha. and
+ we are learning File I/O in Python.
+Using python.
+I like programming in python.
